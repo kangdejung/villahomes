@@ -9,7 +9,7 @@
     </author>
 	<preference name="AutoHideSplashScreen" value="false" />
 	<preference name="SplashScreenDelay" value="10000" />
-	<preference name="android-minSdkVersion" value="15" />
+	<preference name="android-minSdkVersion" value="26" />
 	<preference name="fullscreen" value="true" />
 
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
